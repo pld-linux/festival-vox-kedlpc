@@ -2,8 +2,8 @@ Summary:	American English male voice 'ked'
 Summary(pl):	Amerykañska odmiana jêzyka angielskiego - g³os mêski 'ked'
 Name:		festival-vox-kedlpc
 Version:	0.1
-Release:	1
-License:	Distributable
+Release:	2
+License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festvox_kedlpc16k.tar.gz
 Requires:	festival-lex-CMU
