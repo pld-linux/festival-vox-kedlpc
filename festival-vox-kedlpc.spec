@@ -8,6 +8,7 @@ Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festvox_kedlpc16k.tar.gz
 # Source0-md5:	35d4a2f377d05913ddae61db542afca1
 Requires:	festival-lex-CMU
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
