@@ -1,5 +1,5 @@
 Summary:	American English male voice 'ked'
-Summary(pl.UTF-8):   Amerykańska odmiana języka angielskiego - głos męski 'ked'
+Summary(pl.UTF-8):	Amerykańska odmiana języka angielskiego - głos męski 'ked'
 Name:		festival-vox-kedlpc
 Version:	0.1
 Release:	3
